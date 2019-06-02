@@ -12,4 +12,4 @@ To view the code, download or clone the repository and open the solution file Fi
 
 Some of the main classes in the system:
 
-TacticalMind - The main class in the Utility-Based portion of the AI system. A high-level object making decisions about what actions the AI controlled character should take, based on a number of factors and appraisals (evaluation of possible actions).
+* **TacticalMind** - The main class in the Utility-Based portion of the AI system. A high-level object making decisions about what actions the AI controlled character should take, based on a number of factors and appraisals (evaluation of possible actions).
