@@ -6,7 +6,7 @@ The Fighting Game Artificial Intelligence (AI) system consists of two parts, a F
 
 # Instructions
 
-To view the code, download or clone the repository and open the solution file FightingGame.ArtificialIntelligence.sln in Visual Studio.
+To view the code, download or clone the repository and open the solution file FightingGame.ArtificialIntelligence.sln in Visual Studio or another editor.
 
 # Description
 
