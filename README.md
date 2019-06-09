@@ -29,3 +29,7 @@ Concepts:
 The high-level strategic choices the FSM is responsible for are a set of pre-defined states the Intelligent Agent (or the AI controller character) can be in during a fight. Those states are Observing, Strategizing, Deciding, and Performing. In each of those states the Intelligent Agent is limited to a certain type of actions. 
   
 The tactical choices the UB system makes are the various actions the AI controlled character can perform during a fight. Those are different types of martial art moves, such as Straight Punch, Uppercut, Roundhouse Kick, Snap Kick, and so on.
+
+Here is a diagram illustrating the relationships between the two parts of the AI system and between the overall system and any external game systems, such as the fighting gameplay, in this particular case:
+
+
