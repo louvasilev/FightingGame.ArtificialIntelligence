@@ -32,4 +32,4 @@ The tactical choices the UB system makes are the various actions the AI controll
 
 Here is a diagram illustrating the relationships between the two parts of the AI system and between the overall system and any external game systems, such as the fighting gameplay, in this particular case:
 
-![architecture](/images/FightingGame.AI_System_Architecture.jpg) Format: ![Alt Text](https://github.com/louvasilev/FightingGame.ArtificialIntelligence/blob/master/images/FightingGame.AI_System_Architecture.jpg)
+![architecture](/images/FightingGame.AI_System_Architecture.jpg)
