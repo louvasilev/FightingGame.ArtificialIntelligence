@@ -1,4 +1,4 @@
-# FightingGame.ArtificialIntelligence
+# Fighting Game Artificial Intelligence system for Unity3D
 The Fighting Game Artificial Intelligence (AI) system consists of two parts, a Finite State Machine (FSM)
  and a Utility Based (UB) system. The FSM is responsible for high-level strategic choices, while the UB
  system makes the more specific, tactical choices.
