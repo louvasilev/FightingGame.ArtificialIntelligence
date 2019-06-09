@@ -30,6 +30,10 @@ The high-level strategic choices the FSM is responsible for are a set of pre-def
   
 The tactical choices the UB system makes are the various actions the AI controlled character can perform during a fight. Those are different types of martial art moves, such as Straight Punch, Uppercut, Roundhouse Kick, Snap Kick, and so on.
 
-Here is a diagram illustrating the relationships between the two parts of the AI system and between the overall system and any external game systems, such as the fighting gameplay, in this particular case:
+Here is a system architecture diagram illustrating the relationships between the two parts of the AI system and between the overall system and any external game systems, such as the fighting gameplay, in this particular case:
 
 ![architecture](/images/FightingGame.AI_System_Architecture.jpg)
+
+And the flowchart below demonstrates the flow of logic between the states of the FSM and between the FSM and UB parts of the AI system:
+
+![flowchart](/images/FightingGame.AI_System_Flowchart.jpg)
