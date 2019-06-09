@@ -24,6 +24,6 @@ Concepts:
   * **Base Score** – floating point indicating how good the score is.
   * **Veto** – a boolean allowing each factor to prevent the system from selecting the associated Action.
   
-  The high-level strategic choices the FSM is responsible are a set of pre-defined states the Intelligent Agent (or the AI controller character) can be in during a fight. Those states are Observing, Strategizing, Deciding, and Performing.
+The high-level strategic choices the FSM is responsible are a set of pre-defined states the Intelligent Agent (or the AI controller character) can be in during a fight. Those states are Observing, Strategizing, Deciding, and Performing.
   
-  The tactical choices the UB system makes are the various actions the AI controlled character can perform during a fight. Those are various types of punches and kicks, such as a Straight Punch, Uppercut, Roundhouse Kick, Snap Kick, and so on.
+The tactical choices the UB system makes are the various actions the AI controlled character can perform during a fight. Those are various types of punches and kicks, such as a Straight Punch, Uppercut, Roundhouse Kick, Snap Kick, and so on.
