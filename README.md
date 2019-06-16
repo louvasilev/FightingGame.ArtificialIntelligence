@@ -12,7 +12,7 @@ To view the code, download or clone the repository and open the solution file Fi
 
 # Description
 
-Concepts:
+### Concepts:
 
 * **TacticalMind** - The main class in the Utility-Based portion of the AI system. A high-level object, making decisions about what actions the AI controlled character should take, based on a number of factors and appraisals (evaluation of possible actions). The Tactical Mind has a list of Actions.
 
@@ -27,7 +27,7 @@ Concepts:
   * **Veto** – a boolean allowing each factor to prevent the system from selecting the associated Action.
   
   
-Architecture:
+### Architecture:
 
 The high-level strategic choices the FSM is responsible for are a set of pre-defined states the Intelligent Agent (or the AI controller character) can be in during a fight. Those states are Observing, Strategizing, Deciding, and Performing. In each of those states the Intelligent Agent is limited to a certain type of actions (Note: currently actions in the Strategizing and Deciding states are simulated by a timer and Observing state simply forwards the program logic to the Strategizing one).
   
