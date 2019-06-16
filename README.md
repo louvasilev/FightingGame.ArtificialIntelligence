@@ -3,7 +3,7 @@ The Fighting Game Artificial Intelligence (AI) system consists of two parts, a F
  and a Utility Based (UB) system. The FSM is responsible for high-level strategic choices, while the UB
  system makes the more specific, tactical choices.
  
- The AI system is designed to control the behavior of a computer controller character in a one-on-one fighting game, where the other character is controlled by the player.
+ The AI system is designed to control the behavior of a computer controller character in a one-on-one fighting game, where the other character is controlled by the player. The basic mode of operation consists of keeping track of what state the AI controlled character is in, continuously checking conditions for switching from one state to another, and performing appropriate actions according to the current state.
 
 
 # Instructions
